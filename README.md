@@ -96,7 +96,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/MatPizzolo/netflix-clone.git
    ```
 2. Install NPM packages
    ```sh
@@ -119,7 +119,7 @@
 
 Mateo Pizzolo - matpizzolo@gmail.com
 
-Project Link: [https://github.com/MatPizzolo/sabujcha-landing](https://github.com/MatPizzolo/sabujcha-landing)
+Project Link: [https://github.com/MatPizzolo/netflix-clone](https://github.com/MatPizzolo/netflix-clone)
 
 
 
