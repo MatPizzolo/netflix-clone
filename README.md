@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="./src/netflixLogo.jpeg" alt="Logo" width="200" height="80">
+    <img src="./src/netflixLogo.jpeg" alt="Logo" width="180" height="80">
   </a>
 
 <h3 align="center">Netflix Clone</h3>
@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- <p> This is a project I made to ..</p> -->
+ <p>A Netflix Clone made with themoviedb API.</p> 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
