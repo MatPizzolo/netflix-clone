@@ -52,21 +52,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <p>A Netflix Clone made with themoviedb API.</p> 
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [![HTML][HTML]][HTML-url]
-* [![Css][Css.com]][Css-url]
-* [![JS][Js]][Js-url]
-* [![React][React.js]][React-url]
+ [![Css][Css.com]][Css-url]
+ [![JS][Js]][Js-url]
+ [![React][React.js]][React-url]
+
+ <p>A Netflix Clone made with themoviedb API.</p> 
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
