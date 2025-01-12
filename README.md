@@ -7,6 +7,9 @@
     <img src="./src/netflixLogo.jpeg" alt="Logo" width="180" height="80">
   </a>
 <h3 align="center">Clon de Netflix</h3>
+
+  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/netflix-clone/blob/main/README.en.md)
+
   <p align="center">
     <br />
     <br />
