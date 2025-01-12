@@ -104,7 +104,7 @@ Project Link: [https://github.com/MatPizzolo/netflix-clone](https://github.com/M
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: src/web-screenshot.png
+[product-screenshot]: web-screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
