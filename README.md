@@ -23,7 +23,9 @@
  [![JS][Js]][Js-url]
  [![React][React.js]][React-url]
  <p>Un clon de Netflix creado con la API de themoviedb.</p> 
+ 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 <!-- GETTING STARTED -->
