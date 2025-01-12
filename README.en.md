@@ -11,6 +11,9 @@
 
 <h3 align="center">Netflix Clone</h3>
 
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/netflix-clone)
+
+
   <p align="center">
     <br />
     <br />
